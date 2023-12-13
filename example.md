@@ -104,6 +104,7 @@ end
 
 <img src="/assets/Renewable_Generation_Percent_corr.html" alt="Figure 1">
 
+<img src="Renewable_Generation_Percent_corr.html" alt="Figure 2">
 
 ### Definition lists can be used with HTML syntax.
 
