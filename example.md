@@ -106,7 +106,7 @@ end
 
 <img src="Renewable_Generation_Percent_corr.html" alt="Figure 2">
 
-<iframe src="./assets/Renewable_Generation_Percent_corr.html" height=550 width=1200></iframe>
+<iframe src="./assets/Renewable_Generation_Percent_corr.html"></iframe>
 
 <iframe src="Renewable_Generation_Percent_corr.html" height=550 width=1000></iframe>
 
