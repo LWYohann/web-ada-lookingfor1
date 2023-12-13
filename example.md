@@ -99,7 +99,7 @@ end
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-![TEST](/assets/img/Renewable Generation Percent_corr.html)
+![TEST](/assets/img/Renewable_Generation_Percent_corr.html)
 
 ### Definition lists can be used with HTML syntax.
 
