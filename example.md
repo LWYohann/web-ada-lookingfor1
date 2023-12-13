@@ -102,7 +102,7 @@ end
 
 ![TEST2](/assets/img/cockatoo.jpg)
 
-<img src="/assets/img/Renewable_Generation_Percent_corr.html" alt="Figure 1">
+<img src="/assets/Renewable_Generation_Percent_corr.html" alt="Figure 1">
 
 
 ### Definition lists can be used with HTML syntax.
